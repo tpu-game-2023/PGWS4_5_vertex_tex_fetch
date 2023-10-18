@@ -10,14 +10,14 @@ src フォルダをUnityで開きます。
 
 ![結果画像3](result_3.gif)
 
-![結果画像](result.gif)
+![結果画像](movie_001.gif)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](result_node_graph.png)
 
 ## 自分なりに変更した点
--
--
--
+- ノードとノードとの線を綺麗に整理した
+- 色のノイズをGradetion Noiseに変更した
+- 波ができる処理にSine Timeを追加してゆらゆらしているものに変更した
 
 
 ## 進め方
