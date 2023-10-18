@@ -90,10 +90,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - HIght: 0.0186
     - Height: 0.01
-    - Interval: 64
+    - Interval: 40.7
     - Power: 4
-    - Sharp: 4
+    - Sharp: 3.02
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
