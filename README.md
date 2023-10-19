@@ -10,15 +10,13 @@ src フォルダをUnityで開きます。
 
 ![結果画像3](result_3.gif)
 
-![結果画像](result.gif)
+https://github.com/Fumirin16/PGWS4_5_vertex_tex_fetch/assets/90897959/3d5050cf-9eab-4c5c-a537-856b6477a6bb
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](MyBestSG.png)
 
 ## 自分なりに変更した点
--
--
--
-
+- 色を何色か使ってグラデーションになるようにした。
+- タイムノードを使って高さをアニメーションするようにした。  
 
 ## 進め方
 
