@@ -10,14 +10,13 @@ src フォルダをUnityで開きます。
 
 ![結果画像3](result_3.gif)
 
-![結果画像](result.gif)
+https://github.com/simulacru/test/assets/104343269/50cc8217-bc7f-438b-97d3-adf9aef8528d
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](node_graph5.png)
 
 ## 自分なりに変更した点
--
--
--
+- Sample Gradientの色を変えて頂点が低いと海、高いと陸のように見えるようにした
+- アニメーションをつけ、回転するようにした
 
 
 ## 進め方
