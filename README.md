@@ -10,14 +10,14 @@ src フォルダをUnityで開きます。
 
 ![結果画像3](result_3.gif)
 
-![結果画像](result.gif)
+![result_1](https://github.com/shun-chi-man/PGWS4_5_vertex_tex_fetch/assets/146050674/3f0df837-3448-43d2-a962-2fe6481ffc8b)
 
-![シェーダグラフ](node_graph.png)
+![Cave ShaderGraph](https://github.com/shun-chi-man/PGWS4_5_vertex_tex_fetch/assets/146050674/5da140bf-5ab0-4388-b964-15d8ad16ed33)
 
 ## 自分なりに変更した点
--
--
--
+-　シーンを暗くして、PointLightを付けることで洞窟の雰囲気を演出しました。
+-　Planeオブジェクトそれぞれに異なるShaderGraphをアタッチしたマテリアルを使用して、自然さを出しました。
+-　天井のPlaneオブジェクトは、鍾乳石っぽくなるように意識して色のグラデーションを付けました。
 
 
 ## 進め方

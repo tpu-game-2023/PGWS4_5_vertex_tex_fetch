@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2404285578260169390
+--- !u!114 &-5951548431212607575
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Color Mat
-  m_Shader: {fileID: -6465566751694194690, guid: 3b0840b674d552a478e9e9b995b4f983, type: 3}
+  m_Name: Cave Material5
+  m_Shader: {fileID: -6465566751694194690, guid: b84f4b1b1458a494991d5b84600a097f, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -90,10 +90,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Height: 0.039
-    - Interval: 16
-    - Power: 4
-    - Sharp: 4.7
+    - Height: 0.005
+    - Interval: 30
+    - Sharp: 4
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
