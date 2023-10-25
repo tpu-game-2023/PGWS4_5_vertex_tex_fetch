@@ -10,14 +10,14 @@ src フォルダをUnityで開きます。
 
 ![結果画像3](result_3.gif)
 
-![結果画像](result.gif)
+https://github.com/Ryouta32/PGWS4_5_vertex_tex_fetch/assets/90999621/713dfd55-df70-42ea-b0cb-ebc84c009840
 
-![シェーダグラフ](node_graph.png)
+![image](https://github.com/Ryouta32/PGWS4_5_vertex_tex_fetch/assets/90999621/c814d31b-de29-4640-9404-43c046fc3afc)
 
 ## 自分なりに変更した点
 -
 -
--
+-頂点メッシュを移動させて波打たせました
 
 
 ## 進め方
